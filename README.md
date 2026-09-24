@@ -27,7 +27,7 @@ It is handy for moving a character, prop or whole set from one project to anothe
 
 ## Installation
 
-1. Download [`import_blend_everything.py`](import_blend_everything.py) from this repository.
+1. Download [`IBE.py`](IBE.py) from this repository.
 2. In Blender, open **Edit → Preferences → Add-ons**.
 3. Click the dropdown arrow in the top-right corner and choose **Install from Disk...**
 4. Select `import_blend_everything.py`.
