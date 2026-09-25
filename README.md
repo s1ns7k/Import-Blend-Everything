@@ -113,4 +113,4 @@ Go to **Edit → Preferences → Add-ons**, find **Import Blend Everything**, ex
 
 ## License
 
-Add your license of choice here (for example MIT).
+[`LICENSE`](LICENSE)
